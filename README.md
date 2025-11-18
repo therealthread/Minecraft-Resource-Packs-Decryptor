@@ -5,3 +5,10 @@ This Java-based tool is designed to extract and unpack Minecraft resource packs 
 
 java -jar anePackExtractor.jar input.zip outputFile
 ```
+
+|  Type  | Name       | Tested |
+|:------:|------------|--------|
+| App    | PackSquash | ✔    |
+| Plugin | ItemsAdder | ✔    |
+| Plugin | Nexo       | ✔    |
+| Plugin | Oraxen     | ✔    |
